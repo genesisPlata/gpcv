@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gpcv/static/css/main.5aad845b.css",
+    "main.js": "/gpcv/static/js/main.371dfbeb.js",
+    "static/js/787.9188406b.chunk.js": "/gpcv/static/js/787.9188406b.chunk.js",
+    "index.html": "/gpcv/index.html",
+    "main.5aad845b.css.map": "/gpcv/static/css/main.5aad845b.css.map",
+    "main.371dfbeb.js.map": "/gpcv/static/js/main.371dfbeb.js.map",
+    "787.9188406b.chunk.js.map": "/gpcv/static/js/787.9188406b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aad845b.css",
+    "static/js/main.371dfbeb.js"
+  ]
+}
